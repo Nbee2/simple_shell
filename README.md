@@ -173,4 +173,4 @@ Matri Mariem : [LinkedIn/mariem] | [GitHub/mariem] | [Twitter/mariem]
  stack programming (Front-end & Back-end) using a
  methodology based on peer-learning and projects.
   - I'm curious, adaptable, a fast learner and I love developing
- my skills.
+ my skills, all to make this world a better place.
